@@ -1,0 +1,6 @@
+But what is it good for? (Engineer at the Advanced Computing Systems Division of IBM, commenting on the microchip, 1968) 19 Jan 2038 at 3:14:07 AM (End of the word according to Unix–2^32 seconds after January 1, 1970) Fine, Java MIGHT be a good example of what a programming language should be like. But Java applications are good examples of what applications SHOULDN’T be like. (pixadel) A good programmer is someone who always looks both ways before crossing a one-way street. (Doug Linder) I think there’s a world market for about 5 computers. (Thomas J. Watson, Chairman of the Board, IBM, circa 1948)a
+
+
+
+
+
