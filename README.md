@@ -20,6 +20,8 @@ ff
 
 ## How to contribute
 sfasfasdfasdfasfasfasdfasfda
+
+Please fork this repo and then issue Pull Request for review.
 ## Deployent
 asfa
 asd
